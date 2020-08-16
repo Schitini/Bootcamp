@@ -10,6 +10,7 @@ public class Cliente {
      private String telefone;
      private String endereco;
      private String descricao;
+
      public String getNome() {
           return nome;
      }
