@@ -11,6 +11,7 @@ public class Cliente {
      private String endereco;
      private String descricao;
 
+
      public String getNome() {
           return nome;
      }
